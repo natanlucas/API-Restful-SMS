@@ -37,9 +37,9 @@ abstract class Conection
     protected function conectaDB()
     {
         $db = [
-        'host' => 'db_sms.l70cnn0935.mysql.dbaas.com.br',
-        'username' => 'db_sms',
-        'password' => 'x@banco1MbkhHp',
+        'host' => 'localhost',
+        'username' => 'root',
+        'password' => '',
         'db' => 'db_sms'
         ];
 

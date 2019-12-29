@@ -351,7 +351,7 @@ class SmsOnly extends RequestHttpZenvia
         $zenviaHeader = array(
                         'Accept: application/json',
                         'Content-Type: application/json; charset=UTF-8',
-                        'Authorization: Basic ZHluYW1pYzpicEhaTEl6WUxr'
+                        'Authorization: Basic JGluYW1pYzpicKhaTUl6WUxr'
                     );
 
         return $zenviaHeader;
